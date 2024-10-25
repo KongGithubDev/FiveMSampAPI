@@ -1,0 +1,17 @@
+{
+  "ServerOn": "True",
+  "MessageServerFalse": "",
+  "Version": "1.0",
+  "gamesizeOriginal": "-",
+  "gamesizeOriginalFix": "-",
+  "gamesizeENBLow": "-",
+  "gamesizeENBSetting": "-",
+  "gamesizeENBHigh": "-",
+  "ASIC": "999",
+  "CSC": "999",
+  "LUAC": "999",
+  "CBURLLIST": "modloader,false|modloader.asi,false|cleo,false|cleo.asi,false|moonloader,false|moonloader.asi,false",
+  "FFC": "-1",
+  "UpdateWithLink": "http://191.96.92.62/launcher/FiveMLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://191.96.92.62/launcher/FiveMUpdateFileReplace.tmp"
+}
