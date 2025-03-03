@@ -12,7 +12,7 @@
   "LUAC": "999",
   "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://191.96.92.62/kplauncher/CareerLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://191.96.92.62/kplauncher/CareerUpdateFileReplace.tmp",
+  "UpdateWithLink": "http://191.96.92.62/kplauncher/FiveMLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://191.96.92.62/kplauncher/FiveMUpdateFileReplace.tmp",
   "PIC": "https://img2.imgbiz.com/imgbiz/XMAS.png"
 }
