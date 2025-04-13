@@ -1,7 +1,7 @@
 {
   "ServerOn": "True",
   "MessageServerFalse": "",
-  "Version": "1.2",
+  "Version": "1.3",
   "gamesizeOriginal": "-",
   "gamesizeOriginalFix": "-",
   "gamesizeENBLow": "-",
@@ -12,8 +12,8 @@
   "LUAC": "999",
   "CBURLLIST": "modloader,false|modloader.asi,false|moonloader,false|moonloader.asi,false",
   "FFC": "-1",
-  "UpdateWithLink": "http://43.254.133.242/kplauncher/FiveMLauncherUpdate.tmp",
-  "LUpdateWithLink": "http://43.254.133.242/kplauncher/FiveMUpdateFileReplace.tmp",
-  "HidePathUrl": "http://43.254.133.242/kplauncher/hidepath.txt",
+  "UpdateWithLink": "http://191.96.92.62/kplauncher/FiveMLauncherUpdate.tmp",
+  "LUpdateWithLink": "http://191.96.92.62/kplauncher/FiveMUpdateFileReplace.tmp",
+  "HidePathUrl": "http://191.96.92.62/kplauncher/hidepath.txt",
   "PIC": "https://img2.imgbiz.com/imgbiz/Songkran-CBKP1.01.1.png"
 }
